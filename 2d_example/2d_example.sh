@@ -1,0 +1,3 @@
+Rscript generate_dataset.R
+Rscript fit_and_select_zeta_base.R
+Rscript fit_and_select_zeta_distorted.R

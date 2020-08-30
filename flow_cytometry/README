@@ -1,0 +1,7 @@
+Run here:
+'bash do_fit.sh'
+To do 10 model fittings. Results saved in 'batch_control_fit' folder.
+
+Run here:
+'bash flow_cytometry_analysis.sh' to generate all plots and tables.
+

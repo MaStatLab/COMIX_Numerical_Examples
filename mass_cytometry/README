@@ -1,0 +1,7 @@
+Run:
+bash do_fit.sh
+To do 2 model fittings. Results saved in 'batch_control_fit' folder.
+
+Run:
+bash mass_cytometry_analysis.sh
+to generate all plots.

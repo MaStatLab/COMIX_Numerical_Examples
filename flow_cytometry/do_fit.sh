@@ -1,0 +1,10 @@
+Rscript ./batch_control_fit/COMIX-calib-flow.R 10
+Rscript ./batch_control_fit/COMIX-calib-flow.R 20
+Rscript ./batch_control_fit/COMIX-calib-flow.R 30
+Rscript ./batch_control_fit/COMIX-calib-flow.R 40
+Rscript ./batch_control_fit/COMIX-calib-flow.R 50
+Rscript ./batch_control_fit/COMIX-calib-flow.R 60
+Rscript ./batch_control_fit/COMIX-calib-flow.R 70
+Rscript ./batch_control_fit/COMIX-calib-flow.R 80
+Rscript ./batch_control_fit/COMIX-calib-flow.R 90
+Rscript ./batch_control_fit/COMIX-calib-flow.R 100

@@ -1,0 +1,4 @@
+* 'generate_dataset.R': create 'raw_data.rds', the data set to which we fit the model. Plot Figure 3.
+* 'fit_and_select_zeta_base.R': fit the model and calibrate data from the generative model (save 2 files in ./fitted_base), plot Figure 4.
+* 'fit_and_select_zeta_distorted.R': fit the model and calibrate 'distorted' data (save 2 files in ./fitted_distorted), plot Figure 5.
+
